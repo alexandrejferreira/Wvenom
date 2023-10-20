@@ -1,0 +1,8 @@
+{ 
+    "SessionID" : "SQvenom_001" ,  
+    "pDown" : ".//downloads//" ,
+    "Hook_URL": "",
+    "API_Server": "127.0.0.1",
+    "API_PORT": 6001,
+    "Debug": 0
+}
